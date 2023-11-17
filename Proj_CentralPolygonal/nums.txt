@@ -1,0 +1,13 @@
+n: 0 maximum number of slices: 1
+n: 1 maximum number of slices: 2
+n: 2 maximum number of slices: 4
+n: 3 maximum number of slices: 7
+n: 4 maximum number of slices: 11
+n: 5 maximum number of slices: 16
+n: 6 maximum number of slices: 22
+n: 7 maximum number of slices: 29
+n: 8 maximum number of slices: 37
+n: 9 maximum number of slices: 46
+n: 10 maximum number of slices: 56
+n: 11 maximum number of slices: 67
+n: 12 maximum number of slices: 79
